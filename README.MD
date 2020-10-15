@@ -1,11 +1,11 @@
-Installation:
+## Installation:
     https://flask.palletsprojects.com/en/1.1.x/installation/#installation
 
-Before you work on your project, activate the corresponding environment:
+## Before you work on your project, activate the corresponding environment:
     venv/bin/activate
 
-To run my python app:
+## To run my python app:
     python -m flask run
 
-Pending: DB Initialization:
+## Coming soon: DB Initialization:
     https://flask.palletsprojects.com/en/1.1.x/tutorial/database/
